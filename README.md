@@ -1,3 +1,6 @@
+# deprecated - use https://github.com/Legilibre/legixplore
+
+
 # legi.js [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
 [![npm](https://img.shields.io/npm/v/legi.svg)](https://www.npmjs.com/package/legi)
